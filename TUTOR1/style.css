@@ -7,5 +7,20 @@ h1{
 }
 
 h1{
-    background-color: green
+    background-color: greenyellow;
+
 }
+
+.classA{
+    color: blueviolet;
+}
+.b {
+    color: red;
+
+}
+
+.a {
+    font-size: 26px;
+    color: blue;
+}
+
